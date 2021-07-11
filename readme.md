@@ -17,8 +17,7 @@ This result in social medias being (more) useless after only a couple of seconds
 
 ## Install
 
-Get shrinktome in the
-**[not available... yet](null)**
+Not yet...
 
 
 ## Disclaimer
