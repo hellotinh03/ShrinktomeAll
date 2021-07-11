@@ -1,9 +1,9 @@
 {
-  "name": "shrinktome",
-  "description": "Shrink facebook by 5% every 10th second",
-  "version": "1.0.2",
-  "author": "Terkel Gjervig",
-  "homepage_url": "https://github.com/terkelg/shrinktome",
+  "name": "shrinktome_all",
+  "description": "Shrink social medias by 5% every 10th second",
+  "version": "1.0",
+  "author": "Terkel Gjervig, Cretzen",
+  "homepage_url": "https://github.com/hellotinh03/shrinktome",
   "permissions": [
     "activeTab",
     "tabs"
@@ -14,7 +14,31 @@
         "http://www.facebook.com/*",
         "https://www.facebook.com/*",
         "http://*.facebook.com/*",
-        "https://*.facebook.com/*"
+        "https://*.facebook.com/*",
+        "http://www.instagram.com/*",
+        "https://www.instagram.com/*",
+        "http://*.instagram.com/*",
+        "https://*.instagram.com/*",
+        "http://www.youtube.com/*",
+        "https://www.youtube.com/*",
+        "http://*.youtube.com/*",
+        "https://*.youtube.com/*",
+        "http://www.vk.com/*",
+        "https://www.vk.com/*",
+        "http://*.vk.com/*",
+        "https://*.vk.com/*",
+        "http://www.tiktok.com/*",
+        "https://www.tiktok.com/*",
+        "http://*.tiktok.com/*",
+        "https://*.tiktok.com/*",
+        "http://www.twitter.com/*",
+        "https://www.twitter.com/*",
+        "http://*.twitter.com/*",
+        "https://*.twitter.com/*",
+        "http://www.reddit.com/*",
+        "https://www.reddit.com/*",
+        "http://*.reddit.com/*",
+        "https://*.reddit.com/*"
       ],
       "js": ["bg.js"]
     }
