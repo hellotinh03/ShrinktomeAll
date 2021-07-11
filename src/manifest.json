@@ -3,7 +3,7 @@
   "description": "Shrink social medias by 5% every 10th second",
   "version": "1.0",
   "author": "Terkel Gjervig, Cretzen",
-  "homepage_url": "https://github.com/hellotinh03/shrinktome",
+  "homepage_url": "https://github.com/hellotinh03/ShrinktomeAll",
   "permissions": [
     "activeTab",
     "tabs"
