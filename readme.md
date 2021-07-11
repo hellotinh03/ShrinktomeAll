@@ -2,7 +2,7 @@
   <img src="https://github.com/terkelg/shrinktome/raw/master/logo.gif" alt="shrinktome" width="35%" />
 </div>
 
-<div align="center"><b>Shrink facebook by 5% every 10th second.</b></div>
+<div align="center"><b>Shrink social medias by 5% every 10th second.</b></div>
 
 <br />
 
@@ -11,19 +11,19 @@
 
 ## Why
 
-Minimize time spent on facebook by making it smaller every 10th second.
-This result in facebook being (more) useless after only a couple of seconds. Enjoy real life.
+Minimize time spent on social medias by making them smaller every 10th second.
+This result in social medias being (more) useless after only a couple of seconds. Enjoy real life.
 
 
 ## Install
 
 Get shrinktome in the
-**[Chrome Web Store](https://chrome.google.com/webstore/detail/shrinktome/pgdghhephbjklkcpkhmkapijfcgojfea)**
+**[not available... yet](null)**
 
 
 ## Disclaimer
 
-Shrinktome is a third-party app and is **not** affiliated with Facebook.
+ShrinktomeAll is a third-party app and is **not** affiliated with any sites or companies.
 
 > **FYI:** This buillshit copy is added because facebook already complained.
 
