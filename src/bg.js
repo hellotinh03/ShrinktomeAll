@@ -7,7 +7,7 @@ let scale = 1;
 body.style.transformOrigin = `top center`;
 
 function shrinktome_all() {
-  if (scale < 0.05) return clearInterval(shrinktome);
+  if (scale < 0.05) return clearInterval(shrinktome_all);
   scale *= 0.95;
   body.style.transform = `scale(${scale}, ${scale})`;
 }
