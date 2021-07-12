@@ -2,7 +2,7 @@
   <img src="https://github.com/terkelg/shrinktome/raw/master/logo.gif" alt="shrinktome" width="35%" />
 </div>
 
-<div align="center"><b>Shrink social medias by 5% every 10th second.</b></div>
+<div align="center"><b>Shrink social media sites by 5% every 10th second.</b></div>
 
 <br />
 
