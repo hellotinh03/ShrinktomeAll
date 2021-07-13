@@ -32,7 +32,7 @@ Only for Google Chrome and Chromium-based browsers... for now.
 
 To be able to upload extensions to the Chrome Web Store, I'd have to pay Google 5$ just to make a developer account. This small extension I made for fun (and for me to stay focused on work more than spending hours on social medias) just isn't something that I, a third-worlder, would spend 5 bucks on.
 
-If you are a capeless hero who has some spare money, you can download the .zip file, create a developer account, and upload it to the Chrome Web Store for others to install this thing more easily. The extension is all yours.
+If you are a capeless hero who has some spare money, you can download the .zip file, create a developer account, and upload it to the Chrome Web Store for others to install this thing more easily. The extension is all yours, although be sure to ask [the original author](https://github.com/terkelg) first.
 
 
 ## Disclaimer
