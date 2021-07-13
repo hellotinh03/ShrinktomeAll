@@ -28,7 +28,7 @@ Only for Google Chrome and Chromium-based browsers... for now.
 - Select the folder where you just extracted the zip.
 
 
-## Why is ShrinktomeAll not on the Chrome Web Store? (a.k.a begging for sympathy)
+## Why is ShrinktomeAll not on the Chrome Web Store? (a.k.a me begging for sympathy)
 
 To be able to upload extensions to the Chrome Web Store, I'd have to pay Google 5$ just to make a developer account. This small extension I made for fun (and for me to stay focused on work more than spending hours on social medias) just isn't something that I, a third-worlder, would spend 5 bucks on.
 
