@@ -22,7 +22,7 @@ Only for Google Chrome and Chromium-based browsers... for now.
 - Get the latest .zip file from the [release](https://github.com/hellotinh03/ShrinktomeAll/releases) tab.
 - Extract this zip file in a convenient folder (You can't delete this folder for as long as you want to use ShrinktomeAll. After all, you can't load an extension that you have deleted).
 - Open Chrome/Chromium.
-- Go to [chrome://extensions/](chrome://extensions/).
+- Open chrome://extensions in a new tab.
 - Enable "Developer mode" at the top-right.
 - Click the "Load unpacked" button that just appeared.
 - Select the folder where you just extracted the zip.
