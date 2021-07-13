@@ -12,7 +12,7 @@
 ## Why
 
 Minimize time spent on social media sites by making them smaller every 10th second.
-This result in social medias being (more) useless after only a couple of seconds. Enjoy real life.
+This result in social medias being (more) useless after only a couple of minutes. Enjoy real life.
 
 
 ## Install
